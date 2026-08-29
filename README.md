@@ -8,6 +8,10 @@ with Pure Synthetic Data*) avec PyTorch. Les images à gauche constituent des im
   <img alt="" src="/images/img1.png">
 </picture>
 
+<p align="center">
 <picture>
-  <img alt="" src="/images/img2.png" width=800>
-</picture>
+  
+  <img alt="" src="/images/img2.png" width=900>
+   
+</picture> 
+</p>
