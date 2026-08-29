@@ -8,8 +8,4 @@ with Pure Synthetic Data*) avec PyTorch. Les images à gauche constituent des im
   <img alt="" src="/images/img1.png">
 </picture>
 
-<picture>
-  <img alt="" src="/images/img2.png">
-</picture>
-
 ## Utilisation
